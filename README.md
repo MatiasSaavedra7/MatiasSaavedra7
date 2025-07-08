@@ -8,7 +8,7 @@ Soy curioso por naturaleza y metódico en la ejecución. Me gusta entender el pr
 Cuento con una sólida formación académica, centrada en estructuras, resolución de problemas y pensamiento lógico, lo que me permite abordar los desafíos técnicos con una visión clara y estratégica.
 
 📫 **Contacto**  
-Podés escribirme a través de [LinkedIn](https://www.linkedin.com/in/saavedramatias), [matiassaavedra1995@gmail.com], o visitar mi [portfolio web](https://matias-saavedra.vercel.app).
+Podés escribirme a través de [LinkedIn](https://www.linkedin.com/in/saavedramatias), [matiassaavedra1995@gmail.com](mailto:matiassaavedra1995@gmail.com), o visitar mi [portfolio web](https://matias-saavedra.vercel.app).
 
 💻 **Lenguajes**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
