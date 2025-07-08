@@ -10,10 +10,6 @@ Cuento con una sólida formación académica, centrada en estructuras, resoluci�
 📫 **Contacto**  
 Podés escribirme a través de [LinkedIn](https://www.linkedin.com/in/saavedramatias), [matiassaavedra1995@gmail.com], o visitar mi [portfolio web](https://matias-saavedra.vercel.app).
 
-🌐 **Portfolio Web**  
-Explorá algunos de mis proyectos y trabajos destacados en:  
-🔗 [matias-saavedra.vercel.app](https://matias-saavedra.vercel.app)
-
 💻 **Lenguajes**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
