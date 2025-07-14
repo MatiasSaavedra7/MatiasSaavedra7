@@ -4,7 +4,7 @@ Desarrollador Full-Stack con experiencia en la creacion de aplicaciones web util
 🧠 **Sobre mí**  
 Soy curioso por naturaleza y metódico en la ejecución. Me gusta entender el proyecto antes de escribir código, y disfruto especialmente el diseño de bases de datos y la lógica detrás de cada funcionalidad.
 
-📚 **Formación**  
+📚 **Educación**  
 Cuento con una sólida formación académica, centrada en estructuras, resolución de problemas y pensamiento lógico, lo que me permite abordar los desafíos técnicos con una visión clara y estratégica.
 
 📫 **Contacto**  
